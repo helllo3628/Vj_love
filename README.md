@@ -87,7 +87,7 @@
             <div class="absolute inset-0 bg-gradient-to-tr from-yellow-400 via-pink-500 to-purple-600 rounded-full glow-effect animate-spin" style="animation-duration: 12s;"></div>
             <div class="absolute inset-1.5 bg-slate-900 rounded-full overflow-hidden border-4 border-white/20">
                 <!-- User Photo Placeholder / Embed -->
-                <img src="vj.png" 
+                <img src="Screenshot_20261101_054039_Instagram.jpg" 
                      alt="Vincent Jap" 
                      class="w-full h-full object-cover object-top transition duration-500 group-hover:scale-110"
                      onerror="this.onerror=null; this.src='https://placehold.co/600x600/1e1b4b/ffffff?text=Vincent+Jap';">
